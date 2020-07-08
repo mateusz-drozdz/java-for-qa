@@ -9,7 +9,7 @@ public class StringExamples {
 
   // TODO: check if given email is a Gmail address
   static boolean isGmailAddress(String emailAddress) {
-    return emailAddress.stripTrailing().endsWith("@gmail.com");
+    return false;
   }
 
   // TODO:
